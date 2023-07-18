@@ -62,4 +62,12 @@ Testing can be dne by running ```npm run build``` followed by ```npm start```.
 
 Made with the latest versions of VS Code, GitHub, Node.js, React.js, and Bootstrap
 
+## Screenshots
+![screenshot](./src/images/Screenshot%202023-07-17%20232005.png)
+
 ## Submission
+
+Submitted on GitHub
+
+## Questions
+Feel Free to reach out anytime. Best Contact Method is dkopac96@gmail.com
