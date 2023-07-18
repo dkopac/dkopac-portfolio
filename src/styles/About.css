@@ -1,0 +1,57 @@
+img {
+    width: 10%;
+    height: 10%;
+    object-fit: cover;
+    object-position: center;
+    box-shadow: 0 0 0 2px #000;
+    transition: all 0.3s ease-in-out;
+}
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1rem;
+    height: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.container h1
+{
+    font-size: clamp(1.5rem, 6vw, 2rem);
+    margin-bottom: 1rem;
+    color:black;
+}
+
+.container p
+{
+    color: black;
+    margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 768px)
+{
+    .container > h1{
+        font-size: 2rem;
+        margin-top: 5rem;
+    }
+}
+
+@media screen and (max-width: 480px)
+{
+    .container > h1{
+        font-size: 1.5rem;
+        margin-top: 5rem;
+    }
+.container > p{
+    font-size: 1rem;
+}
+}
+
+
+.about-text{
+    font-size: medium;
+}
