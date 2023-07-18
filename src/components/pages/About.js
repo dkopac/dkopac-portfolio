@@ -31,7 +31,7 @@ const styles = {
 export default function About() {
     return (
         <div style={styles.about}>
-            <img style={ styles.imgStyles } src='/image/IMG_0234.jpeg' alt='Work Day'/>
+            <img style={ styles.imgStyles } src="/images/IMG_0234.jpeg" alt="Ready for Work" />
             <div class="container" style={ styles.pStyles }>
                 I am a Full Stack Web Developer with a background in Retail Management with a Full Stack Web Development Bootcamp Certificate from Case Western Reserve University.
                 I am a hard working and dedicated individual who is always looking to learn and grow. 
