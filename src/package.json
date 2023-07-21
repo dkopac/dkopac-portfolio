@@ -1,6 +1,6 @@
 {
   "name": "kopac-portfolio",
-  "homepage": "https://dkopacportfolio.com/",
+  "homepage": "https://dkopac.github.io/dkopac-portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
