@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dkopac-portfolio/static/css/main.f233137e.css",
+    "main.js": "/dkopac-portfolio/static/js/main.1b48627f.js",
+    "static/js/787.afc458bd.chunk.js": "/dkopac-portfolio/static/js/787.afc458bd.chunk.js",
+    "static/media/Superhero-Project.png": "/dkopac-portfolio/static/media/Superhero-Project.3c7a788809f23beeb2b4.png",
+    "static/media/Day-Planner.png": "/dkopac-portfolio/static/media/Day-Planner.6c1cb49591392b543c9d.png",
+    "static/media/Readme-Generator.png": "/dkopac-portfolio/static/media/Readme-Generator.67df86cd7d96f12c001d.png",
+    "static/media/Employee-Tracker.png": "/dkopac-portfolio/static/media/Employee-Tracker.0821a4f7a613c43f010d.png",
+    "static/media/Note-Taker.png": "/dkopac-portfolio/static/media/Note-Taker.2a43b51acd42e180cf4a.png",
+    "index.html": "/dkopac-portfolio/index.html",
+    "main.f233137e.css.map": "/dkopac-portfolio/static/css/main.f233137e.css.map",
+    "main.1b48627f.js.map": "/dkopac-portfolio/static/js/main.1b48627f.js.map",
+    "787.afc458bd.chunk.js.map": "/dkopac-portfolio/static/js/787.afc458bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f233137e.css",
+    "static/js/main.1b48627f.js"
+  ]
+}
